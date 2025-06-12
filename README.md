@@ -16,5 +16,5 @@ I'm a passionate full-stack developer with expertise in web development and AI t
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ernestdodz&show_icons=true&theme=radical" alt="GitHub Stats" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=Liergab&theme=dark&hide_border=false)<br/>
 </div>
