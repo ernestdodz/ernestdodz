@@ -9,6 +9,8 @@ I'm a passionate full-stack developer with expertise in web development and AI t
 - 📺 Anime enthusiast
 - 🎵 Recently exploring music
 - 🕸️ Experienced in web scraping projects
+- 🐧 Proficient with Linux, SSH, CLI, and shell scripting
+- 🚀 Experienced in VPS management and deployments
 
 ## 🛠️ Tech Stack
 
@@ -18,6 +20,7 @@ I'm a passionate full-stack developer with expertise in web development and AI t
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
   <img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" alt="SolidJS" />
