@@ -16,5 +16,5 @@ I'm a passionate full-stack developer with expertise in web development and AI t
 ## 📊 GitHub Stats
 
 <div align="center">
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=ernestdodz&theme=dark&hide_border=false)<br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ernestdodz&theme=dark&hide_border=false" alt="GitHub Stats" />
 </div>
